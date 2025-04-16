@@ -1,12 +1,12 @@
 # Site settings
-title:
-email:
-description: > # this means to ignore newlines until "baseurl:"
+title: LEO SATELLITE NMS of KOREA
+email: sjint21@naver.com
+description: LEO SATELLITE NMS Technology Pages in Korea
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "https://june-kor.github.io/leosat-nms" # the base hostname & protocol for your site
 
-twitter_username:
-github_username:
+twitter_username: june-kor
+github_username: june-kor
 
 # Build settings
 markdown: kramdown
